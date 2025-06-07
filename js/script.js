@@ -1,12 +1,12 @@
 // typing animation
 var typed = new Typed(".home .typing", {
-    strings:["Web Developer", "Web Designer", "Data Analyze", "Code Fix Editor", "Traveller", "Mentalist"],
+    strings:["Web Developer", "Web Designer", "Data Analyze", "Skatcher", "Traveller", "Mentalist"],
     typeSpeed:120,
     BackSpeed:60,
     loop:true
 })
 var typed = new Typed(".about .typing", {
-    strings:["Web Developer", "Web Designer", "Data Analyze", "Code Fix Editor", "Traveller", "Maintenance"],
+    strings:["Web Developer", "Web Designer", "Data Analyze", "Skatcher", "Traveller", "Mentalist"],
     typeSpeed:120,
     BackSpeed:60,
     loop:true
